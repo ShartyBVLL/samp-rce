@@ -1,2 +1,0 @@
-x86
-with /MT flag
